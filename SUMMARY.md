@@ -21,7 +21,7 @@
   * [UX-MFN — Modelado funcional](servicios/ux-mfn-modelado-funcional.md)
   * [UX-IA — Arquitectura de la Información](servicios/ux-ia-arquitectura-de-la-informacion.md)
   * [UX-PROT — Prototipo validable](servicios/ux-prot-prototipo-validable.md)
-  * [UX-UI — Diseño UI + Especificaciones](servicios/ux-ui-diseno-ui-+-especificaciones.md)
+  * [UX-UI — Diseño UI + Handoff](servicios/ux-ui-diseno-ui-+-handoff.md)
   * [UX-ACC-DT — Accesibilidad en diseño técnico](servicios/ux-acc-dt-accesibilidad-en-diseno-tecnico.md)
   * [UX-HOFF — Handoff + QA UX por sprint](servicios/ux-hoff-handoff-+-qa-ux-por-sprint.md)
   * [UX-REV — Revisión de historias](servicios/ux-rev-revision-de-historias.md)
