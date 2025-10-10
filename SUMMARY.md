@@ -15,7 +15,7 @@
 * [Servicios](servicios/README.md)
   * [UX-BMK — Benchmarking de mercado](servicios/ux-bmk-benchmarking-de-mercado.md)
   * [UX-PRF — Problem Framing Express](servicios/ux-prf-problem-framing-express.md)
-  * [UX-TRIAGE — Triaje de solicitud](servicios/ux-triage-triaje-de-solicitud.md)
+  * [UX-TRIAGE —Triaje de solicitud](servicios/ux-triage-triaje-de-solicitud.md)
   * [UX-SCP — Scoping & Prioritization](servicios/ux-scp-scoping-and-prioritization.md)
   * [UX-RSL — Investigación con usuarios (Lite)](servicios/ux-rsl-investigacion-con-usuarios-lite.md)
   * [UX-MFN — Modelado funcional](servicios/ux-mfn-modelado-funcional.md)
