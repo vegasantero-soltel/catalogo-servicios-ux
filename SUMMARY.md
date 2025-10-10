@@ -40,4 +40,4 @@
   * [UX-ANLT — Auditoría de analítica & trazabilidad](servicios/ux-anlt-auditoria-de-analitica-and-trazabilidad.md)
   * [CX-SBP — Service Blueprint (Front/Backstage)](servicios/cx-sbp-service-blueprint-front-backstage.md)
   * [CX-VOC — Voice of Customer (Programa de escucha)](servicios/cx-voc-voice-of-customer-programa-de-escucha.md)
-* [CX-NPS — Programa NPS/CSAT (Diseño, Medición y Acciones)](cx-nps-programa-nps-csat-diseno-medicion-y-acciones.md)
+  * [CX-NPS — Programa NPS/CSAT (Diseño, Medición y Acciones)](servicios/cx-nps-programa-nps-csat-diseno-medicion-y-acciones.md)
