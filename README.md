@@ -22,3 +22,4 @@
 
 {% include ".gitbook/includes/11-compilance.md" %}
 
+<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td><a href="solicitud-y-venta/procedimiento.md">procedimiento.md</a></td></tr><tr><td></td><td><a href="solicitud-y-venta/catalogo-para-ofertas.md">catalogo-para-ofertas.md</a></td></tr><tr><td></td><td><a href="solicitud-y-venta/roles-y-responsabilidades.md">roles-y-responsabilidades.md</a></td></tr></tbody></table>
