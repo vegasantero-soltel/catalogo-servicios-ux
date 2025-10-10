@@ -31,3 +31,4 @@
   * [UX-DOC — Manuales y ayudas de producto](servicios/ux-doc-manuales-y-ayudas-de-producto.md)
   * [UX-ACC — Accesibilidad EN 301 549 / WCAG](servicios/ux-acc-accesibilidad-en-301-549-wcag.md)
   * [UX-RS — Investigación con usuarios (Estándar)](servicios/ux-rs-investigacion-con-usuarios-estandar.md)
+  * [UX-IDI — Entrevistas en profundidad](servicios/ux-idi-entrevistas-en-profundidad.md)
