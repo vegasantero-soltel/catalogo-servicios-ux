@@ -1,2 +1,0 @@
-# Diseño técnico
-
